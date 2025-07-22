@@ -14,13 +14,6 @@ Backend alanında kendimi geliştirmeye çalışıyorum.
 - C#
 - Java
 - MSSQL
-- -Oracle SQL
+- Oracle SQL
 - Spring Boot
 - Git & GitHub
-
-## Şu anda öğrenmeye çalıştıklarım
-
-- Spring Boot ile REST API geliştirme
-- C# ile masaüstü ve web tabanlı uygulamalar
-- MSSQL üzerinde veri modelleme ve sorgulama
-
