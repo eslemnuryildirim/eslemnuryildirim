@@ -32,15 +32,9 @@
 
 ## 📊 GitHub İstatistiklerim
 
-![Eslem Nur Yıldırım's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslemnur&show_icons=true&theme=default)
+![Eslem Nur Yıldırım's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslemnuryildirim&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslemnur&layout=compact)
-
----
-
-## 🏆 Başarılar
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=eslemnur&theme=flat)](https://github.com/eslemnur)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslemnuryildirim&layout=compact)
 
 ---
 
