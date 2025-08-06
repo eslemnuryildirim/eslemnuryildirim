@@ -19,7 +19,7 @@
 
 ## 🛠️ Kullandığım Teknolojiler
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,mysql,oracle,git" />
+<img src="https://skillicons.dev/icons?i=java,spring,git,mssql,oracle" />
 
 - C#  
 - Java  
@@ -31,8 +31,6 @@
 ---
 
 ## 📊 GitHub İstatistiklerim
-
-![Eslem Nur Yıldırım's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslemnuryildirim&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslemnuryildirim&layout=compact)
 
