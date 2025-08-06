@@ -1,19 +1,53 @@
-Merhaba, ben Eslem Nur Yıldırım.
+<h1 align="center">Merhaba 👋, ben Eslem Nur Yıldırım</h1>
 
-Namık Kemal Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.  
-Backend alanında kendimi geliştirmeye çalışıyorum.
+<p align="center">
+🎓 Namık Kemal Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim<br>
+🚀 Backend alanında kendimi geliştirmeye çalışıyorum<br>
+📫 Bana ulaşmak için: <a href="mailto:eslemyldrrm@gmail.com">eslemyldrrm@gmail.com</a><br>
+🔗 <a href="https://www.linkedin.com/in/eslem-nur-y%C4%B1ld%C4%B1r%C4%B1m-ba29b5249/" target="_blank">LinkedIn Profilim</a>
+</p>
 
-## İlgi Alanlarım
+---
 
-- Backend geliştirme
-- Veritabanı sistemleri
-- Yazılım mimarisi
+## 🌱 İlgi Alanlarım
 
-## Kullandığım Teknolojiler
+- Backend geliştirme  
+- Veritabanı sistemleri  
+- Yazılım mimarisi  
 
-- C#
-- Java
-- MSSQL
-- Oracle SQL
-- Spring Boot
-- Git & GitHub
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+<img src="https://skillicons.dev/icons?i=java,spring,cs,mysql,oracle,git" />
+
+- C#  
+- Java  
+- MSSQL  
+- Oracle SQL  
+- Spring Boot  
+- Git & GitHub  
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+![Eslem Nur Yıldırım's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslemnur&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslemnur&layout=compact)
+
+---
+
+## 🏆 Başarılar
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eslemnur&theme=flat)](https://github.com/eslemnur)
+
+---
+
+## 🤝 Bağlantı Kur
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslem-nur-y%C4%B1ld%C4%B1r%C4%B1m-ba29b5249/)
+[![Mail](https://img.shields.io/badge/-Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eslemyldrrm@gmail.com)
+
+---
+
