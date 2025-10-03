@@ -101,35 +101,6 @@
 
 ---
 
-## 🎯 2024 Hedeflerim
-
-- [ ] **Spring Cloud** mikroservis mimarisi öğrenme
-- [ ] **Docker & Kubernetes** containerization uzmanlığı
-- [ ] **AWS/Azure** cloud platform sertifikaları
-- [ ] **Clean Architecture** prensiplerini projelerde uygulama
-- [ ] **Open Source** projelere katkıda bulunma
-- [ ] **Tech Blog** yazmaya başlama
-
----
-
-## 🏆 Başarılarım
-
-- 🥇 **Üniversite 3.0+ GPA** - Akademik başarı
-- 🏅 **Hackathon 1.lik** - "En İyi Backend API" ödülü
-- 📜 **Oracle SQL Sertifikası** - Database uzmanlığı
-- 🎓 **Spring Boot Bootcamp** - 6 aylık intensive program
-- 💼 **Staj Deneyimi** - 2 farklı şirkette backend development
-
----
-
-## 📚 Öğrendiğim Kaynaklar
-
-- **Books:** Clean Code, Design Patterns, Spring in Action
-- **Courses:** Udemy, Coursera, Pluralsight
-- **Documentation:** Spring.io, Microsoft Docs, Oracle Docs
-- **Communities:** Stack Overflow, GitHub, Reddit r/programming
-
----
 
 ## 🌱 İlgi Alanlarım
 
@@ -157,21 +128,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslem-nur-y%C4%B1ld%C4%B1r%C4%B1m-ba29b5249/)
 [![Mail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eslemyldrrm@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslemnuryildirim)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=about.me&logoColor=white)](https://eslemnuryildirim.dev)
+
 
 </div>
 
 ---
 
-## 💡 Son Tweet'ler
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
 
 ## 🎵 Şu Anda Dinlediğim
 
@@ -185,12 +147,5 @@
 
 <div align="center">
 
-### 💻 "Kod yazmak sadece bir meslek değil, bir tutku!"
-
-**⭐ Bu profili beğendiyseniz yıldız vermeyi unutmayın!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=eslemnuryildirim&color=blueviolet&style=for-the-badge)
-
-Made with ❤️ by [Eslem Nur Yıldırım](https://github.com/eslemnuryildirim)
 
 </div>
