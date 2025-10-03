@@ -2,8 +2,6 @@
 
 # Merhaba 👋, Ben Eslem Nur Yıldırım
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Backend+Developer;Database+Expert;Computer+Engineering+Student;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -128,24 +126,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslem-nur-y%C4%B1ld%C4%B1r%C4%B1m-ba29b5249/)
 [![Mail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eslemyldrrm@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslemnuryildirim)
-
-
-</div>
-
----
-
-
-## 🎵 Şu Anda Dinlediğim
-
-<div align="center">
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/eslemnuryildirim)
-
-</div>
-
----
-
-<div align="center">
-
-
-</div>
