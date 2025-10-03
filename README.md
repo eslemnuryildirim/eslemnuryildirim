@@ -11,7 +11,7 @@
 <p align="center">
 🎓 <strong>Namık Kemal Üniversitesi</strong> - Bilgisayar Mühendisliği 4. sınıf öğrencisi<br>
 🚀 <strong>Backend Developer</strong> - Java, Spring Boot, C# alanında uzmanlaşıyorum<br>
-💾 <strong>Database Expert</strong> - MSSQL, Oracle SQL ile veri yönetimi<br>
+💾 <strong>Database</strong> - MSSQL, Oracle SQL ile veri yönetimi<br>
 🌟 <strong>Yazılım Mimarisi</strong> - Temiz kod ve tasarım prensipleri<br>
 📚 <strong>Sürekli Öğrenme</strong> - Yeni teknolojileri keşfetmeyi seviyorum
 </p>
