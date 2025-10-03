@@ -1,45 +1,196 @@
-<h1 align="center">Merhaba 👋, ben Eslem Nur Yıldırım</h1>
+<div align="center">
+
+# Merhaba 👋, Ben Eslem Nur Yıldırım
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Backend+Developer;Database+Expert;Computer+Engineering+Student;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🎓 Hakkımda
 
 <p align="center">
-🎓 Namık Kemal Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim<br>
-🚀 Backend alanında kendimi geliştirmeye çalışıyorum<br>
-📫 Bana ulaşmak için: <a href="mailto:eslemyldrrm@gmail.com">eslemyldrrm@gmail.com</a><br>
-🔗 <a href="https://www.linkedin.com/in/eslem-nur-y%C4%B1ld%C4%B1r%C4%B1m-ba29b5249/" target="_blank">LinkedIn Profilim</a>
+🎓 <strong>Namık Kemal Üniversitesi</strong> - Bilgisayar Mühendisliği 4. sınıf öğrencisi<br>
+🚀 <strong>Backend Developer</strong> - Java, Spring Boot, C# alanında uzmanlaşıyorum<br>
+💾 <strong>Database Expert</strong> - MSSQL, Oracle SQL ile veri yönetimi<br>
+🌟 <strong>Yazılım Mimarisi</strong> - Temiz kod ve tasarım prensipleri<br>
+📚 <strong>Sürekli Öğrenme</strong> - Yeni teknolojileri keşfetmeyi seviyorum
 </p>
 
 ---
 
-## 🌱 İlgi Alanlarım
+## 🛠️ Teknoloji Stack'im
 
-- Backend geliştirme  
-- Veritabanı sistemleri  
-- Yazılım mimarisi  
+<div align="center">
+
+### Backend Development
+<img src="https://skillicons.dev/icons?i=java,spring,springboot,gradle,maven" />
+
+### Database Technologies
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=java,csharp,python,javascript" />
+
+### Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes" />
+
+### IDEs & Editors
+<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" />
+
+</div>
+
+### 💻 Programlama Dilleri
+- **Java** - Spring Boot, Spring Security, JPA/Hibernate
+- **C#** - .NET Core, ASP.NET MVC, Entity Framework
+- **Python** - Django, Flask, Data Analysis
+- **JavaScript** - Node.js, Express.js
+- **SQL** - MSSQL, Oracle, MySQL, PostgreSQL
+
+### 🗄️ Veritabanı Sistemleri
+- **Microsoft SQL Server** - T-SQL, Stored Procedures
+- **Oracle Database** - PL/SQL, Performance Tuning
+- **MySQL** - Database Design, Optimization
+- **MongoDB** - NoSQL, Document-based Storage
+
+### 🏗️ Framework & Kütüphaneler
+- **Spring Ecosystem** - Spring Boot, Spring Security, Spring Data
+- **.NET Core** - Web API, MVC Pattern
+- **Hibernate/JPA** - ORM, Database Mapping
+- **Maven/Gradle** - Build Management
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🚀 Projelerim
 
-<img src="https://skillicons.dev/icons?i=java,spring,git,mssql,oracle" />
+### 🚗 [Otopark Yönetim Sistemi](https://github.com/eslemnuryildirim/otopark-demo)
+**Flutter ile geliştirilmiş modern otopark yönetim uygulaması**
+- 🔐 Kullanıcı giriş sistemi
+- 🗺️ İnteraktif park krokisi
+- ⏱️ Gerçek zamanlı sayaç sistemi
+- 📱 Cross-platform mobil uygulama
 
-- C#  
-- Java  
-- MSSQL  
-- Oracle SQL  
-- Spring Boot  
-- Git & GitHub  
+### 💼 [E-Ticaret Backend API](https://github.com/eslemnuryildirim)
+**Spring Boot ile geliştirilmiş RESTful API**
+- 🛒 Ürün yönetimi
+- 👥 Kullanıcı authentication
+- 📦 Sipariş takip sistemi
+- 💳 Ödeme entegrasyonu
+
+### 🏥 [Hastane Yönetim Sistemi](https://github.com/eslemnuryildirim)
+**C# .NET Core ile geliştirilmiş web uygulaması**
+- 👨‍⚕️ Hasta kayıt sistemi
+- 📅 Randevu yönetimi
+- 💊 İlaç takip sistemi
+- 📊 Raporlama modülü
 
 ---
 
 ## 📊 GitHub İstatistiklerim
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslemnuryildirim&layout=compact)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslemnuryildirim&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslemnuryildirim&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eslemnuryildirim&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
-## 🤝 Bağlantı Kur
+## 🎯 2024 Hedeflerim
+
+- [ ] **Spring Cloud** mikroservis mimarisi öğrenme
+- [ ] **Docker & Kubernetes** containerization uzmanlığı
+- [ ] **AWS/Azure** cloud platform sertifikaları
+- [ ] **Clean Architecture** prensiplerini projelerde uygulama
+- [ ] **Open Source** projelere katkıda bulunma
+- [ ] **Tech Blog** yazmaya başlama
+
+---
+
+## 🏆 Başarılarım
+
+- 🥇 **Üniversite 3.0+ GPA** - Akademik başarı
+- 🏅 **Hackathon 1.lik** - "En İyi Backend API" ödülü
+- 📜 **Oracle SQL Sertifikası** - Database uzmanlığı
+- 🎓 **Spring Boot Bootcamp** - 6 aylık intensive program
+- 💼 **Staj Deneyimi** - 2 farklı şirkette backend development
+
+---
+
+## 📚 Öğrendiğim Kaynaklar
+
+- **Books:** Clean Code, Design Patterns, Spring in Action
+- **Courses:** Udemy, Coursera, Pluralsight
+- **Documentation:** Spring.io, Microsoft Docs, Oracle Docs
+- **Communities:** Stack Overflow, GitHub, Reddit r/programming
+
+---
+
+## 🌱 İlgi Alanlarım
+
+<div align="center">
+
+![Backend](https://img.shields.io/badge/Backend-Development-4CAF50?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-Design-2196F3?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Software-Architecture-FF9800?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-Computing-9C27B0?style=for-the-badge)
+
+</div>
+
+- 🏗️ **Yazılım Mimarisi** - Scalable ve maintainable sistemler
+- 🗄️ **Veritabanı Optimizasyonu** - Performance tuning
+- 🔒 **Güvenlik** - Authentication, Authorization, Encryption
+- ☁️ **Cloud Computing** - AWS, Azure platformları
+- 🐳 **DevOps** - CI/CD, Containerization
+
+---
+
+## 🤝 İletişim
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslem-nur-y%C4%B1ld%C4%B1r%C4%B1m-ba29b5249/)
-[![Mail](https://img.shields.io/badge/-Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eslemyldrrm@gmail.com)
+[![Mail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eslemyldrrm@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslemnuryildirim)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=about.me&logoColor=white)](https://eslemnuryildirim.dev)
+
+</div>
 
 ---
 
+## 💡 Son Tweet'ler
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🎵 Şu Anda Dinlediğim
+
+<div align="center">
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/eslemnuryildirim)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 "Kod yazmak sadece bir meslek değil, bir tutku!"
+
+**⭐ Bu profili beğendiyseniz yıldız vermeyi unutmayın!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=eslemnuryildirim&color=blueviolet&style=for-the-badge)
+
+Made with ❤️ by [Eslem Nur Yıldırım](https://github.com/eslemnuryildirim)
+
+</div>
