@@ -19,10 +19,10 @@
 ## 🎓 Hakkımda
 <p align="center">
 🎓 <strong>Namık Kemal Üniversitesi</strong> — Bilgisayar Mühendisliği 4. sınıf<br/>
-🚀 <strong>Backend Developer</strong> — Java, Spring Boot, C# odağında<br/>
+🚀 <strong>Junior Backend Developer</strong> — Java, Spring Boot, C# odağında<br/>
 💾 <strong>Database</strong> — MSSQL, Oracle SQL, optimizasyon ve modelleme<br/>
 🏗️ <strong>Yazılım Mimarisi</strong> — Temiz kod, SOLID ve tasarım prensipleri<br/>
-📚 <strong>Sürekli Öğrenme</strong> — Yeni teknolojileri keşfetmeye bayılırım
+
 </p>
 
 ---
@@ -130,5 +130,5 @@
 <p align="center">
   <img src="https://media.tenor.com/SJgA8sKncD8AAAAi/hello-kitty.gif" width="120" alt="hello kitty bounce" />
   <br/>
-  <i>“Make it cute, make it clean, make it scale.” ✨</i>
+  <i>“Make it cute, make it clean” ✨</i>
 </p>
