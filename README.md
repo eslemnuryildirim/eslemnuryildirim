@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=900&color=FF6FB5&center=true&vCenter=true&width=800&lines=Merhaba%2C+ben+Eslem+Nur+Y%C4%B1ld%C4%B1r%C4%B1m!+%F0%9F%91%8B;Backend+Developer+%7C+Java%2C+Spring+Boot%2C+C%23;Temiz+kod%2C+mimari+ve+veri+tutkunu+%F0%9F%92%96" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=900&color=FF6FB5&center=true&vCenter=true&width=800&lines=Merhaba%2C+ben+Eslem+Nur+Y%C4%B1ld%C4%B1r%C4%B1m!+%F0%9F%91%8B;Backend+Developer+%7C+Java%2C+Spring+Boot%2C+C%23" alt="typing" />
 
 <img src="https://i.pinimg.com/originals/2c/72/1e/2c721eb5a1c0a0a6a3b1dba1c5a5f0a7.gif" width="210" alt="hello kitty waving" />
 
