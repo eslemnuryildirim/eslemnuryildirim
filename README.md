@@ -1,49 +1,60 @@
-
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=900&color=FF6FB5&center=true&vCenter=true&width=800&lines=Merhaba%2C+ben+Eslem+Nur+Y%C4%B1ld%C4%B1r%C4%B1m!+%F0%9F%91%8B;Backend+Developer+%7C+Java%2C+Spring+Boot%2C+C%23" alt="typing" />
+<!-- Sıkı başlık alanı (pembe→mor degrade) -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=150&text=Eslem%20Nur%20Yıldırım&fontSize=34&fontColor=ffffff&color=0:FF5CA8,100:B57BFF&animation=fadeIn" alt="banner"/>
 
-<img src="https://i.pinimg.com/originals/2c/72/1e/2c721eb5a1c0a0a6a3b1dba1c5a5f0a7.gif" width="210" alt="hello kitty waving" />
+<!-- Yazı animasyonu (kısa, pembe/mor) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&duration=2200&pause=800&color=FF5CA8&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java%2C+Spring+Boot%2C+C%23;Bilgisayar+M%C3%BCh.+%C3%96%C4%9Frencisi+%7C+Nam%C4%B1k+Kemal+%C3%9Cni.;Temiz+Kod+%7C+SOLID+%7C+SQL+Tuning" alt="typing" />
 
-# Merhaba 👋, Ben **Eslem Nur Yıldırım**
+<!-- Mini gif (kompakt) -->
+<img src="https://i.pinimg.com/originals/2c/72/1e/2c721eb5a1c0a0a6a3b1dba1c5a5f0a7.gif" width="110" alt="hello kitty waving" />
+
+### Merhaba 👋, Ben **Eslem Nur Yıldırım**
+
+<!-- Hızlı aksiyon butonları (boşluksuz) -->
+<a href="#-projeler"><img src="https://img.shields.io/badge/Projeler-FF5CA8?style=for-the-badge&logo=spring&logoColor=white"/></a><a href="#-istatistikler"><img src="https://img.shields.io/badge/İstatistikler-B57BFF?style=for-the-badge&logo=github&logoColor=white"/></a><a href="#-iletisim"><img src="https://img.shields.io/badge/İletişim-FFC9E6?style=for-the-badge&logo=gmail&logoColor=5a5a5a"/></a>
+
+<!-- Ziyaretçi sayacı (kompakt) -->
+<p><img src="https://komarev.com/ghpvc/?username=eslemnuryildirim&label=Ziyaret&color=ff5ca8&style=flat" /></p>
 
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eslemnuryildirim&label=Ziyaret&color=ff84c1&style=flat" />
-</p>
 
 ---
 
 ## 🎓 Hakkımda
-<p align="center">
-🎓 <strong>Namık Kemal Üniversitesi</strong> — Bilgisayar Mühendisliği 4. sınıf<br/>
-🚀 <strong>Junior Backend Developer</strong> — Java, Spring Boot, C# odağında<br/>
-💾 <strong>Database</strong> — MSSQL, Oracle SQL, optimizasyon ve modelleme<br/>
-🏗️ <strong>Yazılım Mimarisi</strong> — Temiz kod, SOLID ve tasarım prensipleri<br/>
+- 🎓 **Namık Kemal Üniversitesi** — Bilgisayar Mühendisliği 4. sınıf
+- 🚀 **Junior Backend Developer** — Java, Spring Boot, C# odağında
+- 💾 **Database** — MSSQL, Oracle SQL, optimizasyon ve modelleme
+- 🏗️ **Yazılım Mimarisi** — Temiz kod, SOLID, tasarım prensipleri
+- 💡 **Hedef** — Performant, ölçeklenebilir, bakımı kolay sistemler
 
-</p>
+<details>
+  <summary><b>💖 Neden Backend?</b></summary>
+  Verinin doğru, güvenli ve hızlı akışı. DDD, SOLID, test edilebilirlik ve tutarlı veri modeli benim için temel.
+</details>
+
+<details>
+  <summary><b>🗺️ Yol Haritam</b></summary>
+  Spring Security (JWT, RBAC) → Docker/Compose → Kubernetes (deploy/HPA) → AWS (EC2, RDS, S3) → Gelişmiş SQL tuning.
+</details>
 
 ---
 
 ## 🛠️ Teknoloji Stack’im
 <div align="center">
 
-### Backend Development
-<img src="https://skillicons.dev/icons?i=java,spring,springboot,gradle,maven&theme=light" />
+<!-- Tek satırlık kompakt ikonlar; perline ile boşluk en aza. -->
+<strong>Backend & Diller</strong>  
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,csharp,dotnet,python,javascript,nodejs,express&perline=12&theme=light"/>
 
-### Database Technologies
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=light" />
+<strong>Veritabanı & Cache</strong>  
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&perline=10&theme=light"/>
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=java,csharp,python,javascript&theme=light" />
+<strong>DevOps & Araçlar</strong>  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab&perline=12&theme=light"/>
 
-### Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes&theme=light" />
-
-### IDEs & Editors
-<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse&theme=light" />
+<strong>IDE</strong>  
+<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse&perline=10&theme=light"/>
 
 </div>
 
@@ -70,42 +81,99 @@
 
 ---
 
-## 🎀 Öne Çıkan Projeler
-### 🚗 [Otopark Yönetim Sistemi](https://github.com/eslemnuryildirim/otopark-demo)
-**Flutter ile modern otopark yönetimi**
-- 🔐 Giriş sistemi · 🗺️ İnteraktif kroki · ⏱️ Gerçek zamanlı sayaç · 📱 Cross-platform
+## 🎀 Öne Çıkan Projeler {#-projeler}
+> Kartlara tıklayıp repo’lara gidebilirsin.
 
-### 💼 [E-Ticaret Backend API](https://github.com/eslemnuryildirim)
-**Spring Boot ile RESTful servisler**
-- 🛒 Ürünler · 👥 Kimlik doğrulama · 📦 Sipariş · 💳 Ödeme entegrasyonu
-
-### 🏥 [Hastane Yönetim Sistemi](https://github.com/eslemnuryildirim)
-**C# .NET Core web uygulaması**
-- 👨‍⚕️ Hasta kayıt · 📅 Randevu · 💊 İlaç takip · 📊 Raporlama
+<table>
+  <tr>
+    <td>
+      <h3>🚗 Otopark Yönetim Sistemi</h3>
+      <p><i>Flutter ile modern otopark yönetimi</i></p>
+      <ul>
+        <li>🔐 Giriş sistemi</li>
+        <li>🗺️ İnteraktif kroki</li>
+        <li>⏱️ Gerçek zamanlı sayaç</li>
+        <li>📱 Cross-platform</li>
+      </ul>
+      <a href="https://github.com/eslemnuryildirim/otopark-demo">🔗 GitHub</a>
+    </td>
+    <td>
+      <h3>💼 E-Ticaret Backend API</h3>
+      <p><i>Spring Boot ile RESTful servisler</i></p>
+      <ul>
+        <li>🛒 Ürünler</li>
+        <li>👥 Kimlik doğrulama</li>
+        <li>📦 Sipariş</li>
+        <li>💳 Ödeme entegrasyonu</li>
+      </ul>
+      <a href="https://github.com/eslemnuryildirim">🔗 GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🏥 Hastane Yönetim Sistemi</h3>
+      <p><i>C# .NET Core web uygulaması</i></p>
+      <ul>
+        <li>👨‍⚕️ Hasta kayıt</li>
+        <li>📅 Randevu</li>
+        <li>💊 İlaç takip</li>
+        <li>📊 Raporlama</li>
+      </ul>
+      <a href="https://github.com/eslemnuryildirim">🔗 GitHub</a>
+    </td>
+    <td>
+      <h3>🗂️ SQL Performans Araçları</h3>
+      <p><i>Query tuning, index analizi ve plan inceleme örnekleri</i></p>
+      <ul>
+        <li>⚡ Sorgu optimizasyonu</li>
+        <li>🧭 İndeks stratejileri</li>
+        <li>🧪 Benchmark notları</li>
+      </ul>
+      <a href="https://github.com/eslemnuryildirim">🔗 GitHub</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 İstatistikler {#-istatistikler}
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eslemnuryildirim&show_icons=true&hide_border=true&title_color=ff6fb5&icon_color=ff6fb5&text_color=5a5a5a&bg_color=ffffff&count_private=true" />
+<!-- Kartlar: aynı yükseklik + tek satır, arada boşluk yok -->
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=eslemnuryildirim&show_icons=true&hide_border=true&title_color=ff5ca8&icon_color=ff5ca8&text_color=5a5a5a&bg_color=ffffff&count_private=true"/><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslemnuryildirim&layout=compact&hide_border=true&title_color=ff5ca8&text_color=5a5a5a&bg_color=ffffff&langs_count=8"/><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=eslemnuryildirim&hide_border=true&ring=ff5ca8&fire=ff5ca8&currStreakLabel=ff5ca8&background=FFFFFF&sideNums=5a5a5a&sideLabels=5a5a5a&dates=5a5a5a"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslemnuryildirim&layout=compact&hide_border=true&title_color=ff6fb5&text_color=5a5a5a&bg_color=ffffff&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eslemnuryildirim&hide_border=true&ring=ff6fb5&fire=ff6fb5&currStreakLabel=ff6fb5&background=FFFFFF&sideNums=5a5a5a&sideLabels=5a5a5a&dates=5a5a5a" />
-
+<!-- Aktivite grafiği: pembe/mor -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eslemnuryildirim&area=true&hide_border=true&bg_color=ffffff&color=5a5a5a&line=B57BFF&point=FF5CA8&area_color=FFC9E6" alt="activity graph"/>
 </div>
+
+---
+
+## 🎒 Öğrenci Köşesi
+> **Durum:** Bilgisayar Müh. 4. sınıf • Part-time/remote backend fırsatlarına açığım 💌
+
+<details>
+  <summary><b>📚 Dönem Planı</b></summary>
+
+- [x] Spring Security (JWT, RBAC)
+- [x] Docker → Compose
+- [ ] Kubernetes (deployment, HPA)
+- [ ] AWS temelleri (EC2, RDS, S3)
+- [ ] Gelişmiş SQL tuning (index, execution plan)
+</details>
+
+<details>
+  <summary><b>🏆 Minik Başarılar</b></summary>
+
+- 💻 Hackathon katılımları (backend & veritabanı)  
+- 🥇 Bölüm projelerinde mimari sunum  
+- 📜 Sertifikalar: Java OOP, SQL, Git/GitHub
+</details>
 
 ---
 
 ## 🌱 İlgi Alanlarım
 <div align="center">
-  
-![Backend](https://img.shields.io/badge/Backend-Development-ff86c8?style=for-the-badge)
-![Database](https://img.shields.io/badge/Database-Design-ffa6d9?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Software-Architecture-ffbde4?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-Computing-ffd2ee?style=for-the-badge)
-
+<img src="https://img.shields.io/badge/Backend-Development-ff5ca8?style=for-the-badge"/><img src="https://img.shields.io/badge/Database-Design-b57bff?style=for-the-badge"/><img src="https://img.shields.io/badge/Software-Architecture-ff9ed9?style=for-the-badge"/><img src="https://img.shields.io/badge/Cloud-Computing-ffc9e6?style=for-the-badge"/>
 </div>
 
 - 🏗️ **Yazılım Mimarisi** — Scalable & maintainable sistemler  
@@ -116,19 +184,21 @@
 
 ---
 
-## 🤝 İletişim
+## 🤝 İletişim {#-iletisim}
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff6fb5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslem-nur-y%C4%B1ld%C4%B1r%C4%B1m-ba29b5249/)
-[![Mail](https://img.shields.io/badge/-Mail-ff86c8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eslemyldrrm@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-ff9ed9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslemnuryildirim)
+<a href="https://www.linkedin.com/in/eslem-nur-yıldırım-ba29b5249/"><img src="https://img.shields.io/badge/-LinkedIn-ff5ca8?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:eslemyldrrm@gmail.com"><img src="https://img.shields.io/badge/-Mail-ffc9e6?style=for-the-badge&logo=gmail&logoColor=5a5a5a"/></a><a href="https://github.com/eslemnuryildirim"><img src="https://img.shields.io/badge/-GitHub-b57bff?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/SJgA8sKncD8AAAAi/hello-kitty.gif" width="120" alt="hello kitty bounce" />
+<div align="center">
+  <img src="https://media.tenor.com/SJgA8sKncD8AAAAi/hello-kitty.gif" width="110" alt="hello kitty bounce" />
   <br/>
   <i>“Make it cute, make it clean” ✨</i>
-</p>
+</div>
+
+<!-- 🎨 Renk Paleti
+Primary: #FF5CA8 | Secondary: #B57BFF | Accent: #FFC9E6 | Text: #5A5A5A
+-->
