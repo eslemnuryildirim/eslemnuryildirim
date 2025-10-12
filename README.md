@@ -110,27 +110,7 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <h3>🏥 Hastane Yönetim Sistemi</h3>
-      <p><i>C# .NET Core web uygulaması</i></p>
-      <ul>
-        <li>👨‍⚕️ Hasta kayıt</li>
-        <li>📅 Randevu</li>
-        <li>💊 İlaç takip</li>
-        <li>📊 Raporlama</li>
-      </ul>
-      <a href="https://github.com/eslemnuryildirim">🔗 GitHub</a>
-    </td>
-    <td>
-      <h3>🗂️ SQL Performans Araçları</h3>
-      <p><i>Query tuning, index analizi ve plan inceleme örnekleri</i></p>
-      <ul>
-        <li>⚡ Sorgu optimizasyonu</li>
-        <li>🧭 İndeks stratejileri</li>
-        <li>🧪 Benchmark notları</li>
-      </ul>
-      <a href="https://github.com/eslemnuryildirim">🔗 GitHub</a>
-    </td>
+  
   </tr>
 </table>
 
