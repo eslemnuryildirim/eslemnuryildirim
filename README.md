@@ -28,16 +28,6 @@
 - 🏗️ **Yazılım Mimarisi** — Temiz kod, SOLID, tasarım prensipleri
 - 💡 **Hedef** — Performant, ölçeklenebilir, bakımı kolay sistemler
 
-<details>
-  <summary><b>💖 Neden Backend?</b></summary>
-  Verinin doğru, güvenli ve hızlı akışı. DDD, SOLID, test edilebilirlik ve tutarlı veri modeli benim için temel.
-</details>
-
-<details>
-  <summary><b>🗺️ Yol Haritam</b></summary>
-  Spring Security (JWT, RBAC) → Docker/Compose → Kubernetes (deploy/HPA) → AWS (EC2, RDS, S3) → Gelişmiş SQL tuning.
-</details>
-
 ---
 
 ## 🛠️ Teknoloji Stack’im
@@ -122,32 +112,8 @@
 <!-- Kartlar: aynı yükseklik + tek satır, arada boşluk yok -->
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=eslemnuryildirim&show_icons=true&hide_border=true&title_color=ff5ca8&icon_color=ff5ca8&text_color=5a5a5a&bg_color=ffffff&count_private=true"/><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslemnuryildirim&layout=compact&hide_border=true&title_color=ff5ca8&text_color=5a5a5a&bg_color=ffffff&langs_count=8"/><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=eslemnuryildirim&hide_border=true&ring=ff5ca8&fire=ff5ca8&currStreakLabel=ff5ca8&background=FFFFFF&sideNums=5a5a5a&sideLabels=5a5a5a&dates=5a5a5a"/>
 
-<!-- Aktivite grafiği: pembe/mor -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eslemnuryildirim&area=true&hide_border=true&bg_color=ffffff&color=5a5a5a&line=B57BFF&point=FF5CA8&area_color=FFC9E6" alt="activity graph"/>
-</div>
-
----
-
 ## 🎒 Öğrenci Köşesi
 > **Durum:** Bilgisayar Müh. 4. sınıf • Part-time/remote backend fırsatlarına açığım 💌
-
-<details>
-  <summary><b>📚 Dönem Planı</b></summary>
-
-- [x] Spring Security (JWT, RBAC)
-- [x] Docker → Compose
-- [ ] Kubernetes (deployment, HPA)
-- [ ] AWS temelleri (EC2, RDS, S3)
-- [ ] Gelişmiş SQL tuning (index, execution plan)
-</details>
-
-<details>
-  <summary><b>🏆 Minik Başarılar</b></summary>
-
-- 💻 Hackathon katılımları (backend & veritabanı)  
-- 🥇 Bölüm projelerinde mimari sunum  
-- 📜 Sertifikalar: Java OOP, SQL, Git/GitHub
-</details>
 
 ---
 
