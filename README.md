@@ -32,38 +32,6 @@ Backend geliştirme, veritabanı tasarımı ve temiz kod prensipleri üzerine od
 - SOLID & Clean Code  
 - Git & GitHub  
 
----
-
-## 📌 Öne Çıkan Projeler
-
-### 🚗 Otopark Yönetim Sistemi
-**Flutter + Backend API**
-
-- Kullanıcı giriş sistemi  
-- Gerçek zamanlı doluluk takibi  
-- Modüler ve genişletilebilir yapı  
-
-🔗 https://github.com/eslemnuryildirim/otopark-demo
-
----
-
-### 💼 E-Ticaret Backend API
-**Spring Boot**
-
-- Ürün & sipariş yönetimi  
-- JWT tabanlı authentication  
-- Katmanlı mimari (Controller / Service / Repository)
-
-🔗 https://github.com/eslemnuryildirim
-
----
-
-## 📊 GitHub İstatistikleri
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslemnuryildirim&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslemnuryildirim&layout=compact&hide_border=true)
-
----
 
 ## 🎯 Hedef
 Backend alanında kendimi derinleştirerek:
