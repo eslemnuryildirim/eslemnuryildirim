@@ -1,7 +1,7 @@
 # Eslem Nur Yıldırım
 
 **Junior Backend Developer**  
-Java • Spring Boot • C# • SQL
+Java • Spring Boot • C# • SQL •Docker •Kubernetes
 
 ---
 
@@ -31,15 +31,7 @@ Backend geliştirme, veritabanı tasarımı ve temiz kod prensipleri üzerine od
 - RESTful API tasarımı  
 - SOLID & Clean Code  
 - Git & GitHub  
-
-
-## 🎯 Hedef
-Backend alanında kendimi derinleştirerek:
-- Kurumsal projelerde görev almak  
-- Büyük ölçekli sistemlerin parçası olmak  
-- İyi bir **software engineer** olmak
-
----
+  
 
 ## 📫 İletişim
 - **LinkedIn:** https://www.linkedin.com/in/eslem-nur-yıldırım-ba29b5249/
