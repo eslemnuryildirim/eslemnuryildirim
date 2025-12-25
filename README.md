@@ -14,11 +14,6 @@
 <!-- Hızlı aksiyon butonları (boşluksuz) -->
 <a href="#-projeler"><img src="https://img.shields.io/badge/Projeler-FF5CA8?style=for-the-badge&logo=spring&logoColor=white"/></a><a href="#-istatistikler"><img src="https://img.shields.io/badge/İstatistikler-B57BFF?style=for-the-badge&logo=github&logoColor=white"/></a><a href="#-iletisim"><img src="https://img.shields.io/badge/İletişim-FFC9E6?style=for-the-badge&logo=gmail&logoColor=5a5a5a"/></a>
 
-<!-- Ziyaretçi sayacı (kompakt) -->
-<p><img src="https://komarev.com/ghpvc/?username=eslemnuryildirim&label=Ziyaret&color=ff5ca8&style=flat" /></p>
-
-</div>
-
 ---
 
 ## 🎓 Hakkımda
