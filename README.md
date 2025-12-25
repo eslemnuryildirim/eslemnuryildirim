@@ -24,27 +24,6 @@
 - 💡 **Hedef** — Performant, ölçeklenebilir, bakımı kolay sistemler
 
 ---
-
-## 🛠️ Teknoloji Stack’im
-<div align="center">
-
-<!-- Tek satırlık kompakt ikonlar; perline ile boşluk en aza. -->
-<strong>Backend & Diller</strong>  
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,csharp,dotnet,python,javascript,nodejs,express&perline=12&theme=light"/>
-
-<strong>Veritabanı & Cache</strong>  
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&perline=10&theme=light"/>
-
-<strong>DevOps & Araçlar</strong>  
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab&perline=12&theme=light"/>
-
-<strong>IDE</strong>  
-<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse&perline=10&theme=light"/>
-
-</div>
-
----
-
 ## 💻 Programlama Dilleri & Çerçeveler
 - **Java** — Spring Boot, Spring Security, JPA/Hibernate  
 - **C#** — .NET Core, ASP.NET MVC, Entity Framework  
@@ -109,7 +88,6 @@
 
 ## 🎒 Öğrenci Köşesi
 > **Durum:** Bilgisayar Müh. 4. sınıf • Part-time/remote backend fırsatlarına açığım 💌
-
 ---
 
 ## 🌱 İlgi Alanlarım
